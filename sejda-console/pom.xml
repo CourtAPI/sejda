@@ -82,7 +82,7 @@
 									<goal>jdeb</goal>
 								</goals>
 								<configuration>
-									<deb>[[buildDir]]/[[artifactId]]_[[version]]-1_all.[[extension]]</deb>
+									<deb>[[buildDir]]/[[artifactId]]_[[version]]-2_all.[[extension]]</deb>
 									<dataSet>
 										<data>
 											<src>${project.build.directory}/deb/sejda-console</src>
